@@ -36,4 +36,4 @@ vignettes/*.pdf
 *.knit.md
 
 #ignore api keys
-api-key.R
+exercise-2/api-key.R
