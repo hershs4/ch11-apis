@@ -35,5 +35,5 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-#ignore api keys
-exercise-2/api-key.R
+# ignore api keys
+~/Desktop/INFO/infoexercises/exercise-2/api-key.R
